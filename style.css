@@ -13,6 +13,15 @@ body {
   border-radius:50%;
   }
 
+#tratamento {
+  width: 250px;
+}
+
+#mesa-radionica {
+  width: 250px;
+  border-radius: 50%;
+}
+
 .container {
   width: 700px auto;
   margin: 15px auto;
